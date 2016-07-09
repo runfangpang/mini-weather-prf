@@ -1,5 +1,8 @@
 package cn.edu.example.nwnu.bean;
 
+
+
+
 /**
  * Created by zzp on 2016/7/9.
  */
